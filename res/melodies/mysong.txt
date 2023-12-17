@@ -1,0 +1,29 @@
+Ashvin's song
+Ashvin Ganesan
+26
+.3 C 4 NATURAL false
+.3 E 4 NATURAL false
+.3 G 4 NATURAL false
+.3 E 4 NATURAL false
+.6 D 4 NATURAL false
+.6 D 4 NATURAL false
+.3 E 4 NATURAL false
+.3 F 4 NATURAL false
+.3 G 4 NATURAL false
+.3 E 4 NATURAL false
+1.2 D 4 NATURAL false
+.6 C 4 NATURAL false
+.3 D 4 NATURAL false
+.3 D 4 NATURAL false
+1.2 C 4 NATURAL false
+.3 C 4 NATURAL false
+.3 D 4 NATURAL false
+.3 E 4 NATURAL false
+.3 F 4 NATURAL false
+.6 G 4 NATURAL false
+.6 G 4 NATURAL false
+.3 G 4 NATURAL false
+.3 F 4 NATURAL false
+.3 E 4 NATURAL false
+.3 D 4 NATURAL false
+1.2 C 4 NATURAL false
